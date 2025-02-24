@@ -1,0 +1,13 @@
+Privacy Center
+
+Manage your data preferences, request data deletion, or update your account information through our Privacy Center. We believe in transparency and control over your data.
+
+Our Privacy Center provides tools that allow users to:
+- Adjust privacy settings
+- Review collected data
+- Request data export
+- Opt-out of targeted advertising
+
+We strive to maintain transparency regarding how data is used. Users can review their privacy dashboard to understand and control what information is shared with the platform. 
+
+For any privacy-related inquiries, contact us at [privacy email].

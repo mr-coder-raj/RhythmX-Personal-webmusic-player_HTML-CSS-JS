@@ -1,0 +1,7 @@
+Accessibility
+
+We are committed to making our music player accessible to everyone, including users with disabilities. Our platform is designed following Web Content Accessibility Guidelines (WCAG) to ensure an inclusive experience. Features such as keyboard navigation, screen reader support, and customizable visual settings help make our platform usable for a diverse audience.
+
+If you encounter any accessibility issues, please contact us at [support email]. We welcome feedback to continuously improve our platform's usability for all individuals, regardless of ability.
+
+Additionally, we strive to integrate accessibility tools that provide seamless interaction across devices. Our customer support team is trained to assist with accessibility concerns, ensuring that every user can enjoy their music without limitations.
