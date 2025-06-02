@@ -8,6 +8,8 @@ A simple and sleek personal web music player built using **HTML**, **CSS**, and 
 - 🔁 Loop and shuffle options  
 - 🎧 Display current song info and progress  
 - 🎨 Responsive and modern UI  
+- 📂 Uses a JSON file to load songs dynamically  
+- 🔒 `.htaccess` file for folder access control (if deployed on Apache server)
 
 ## 🛠 Tech Stack
 
@@ -34,6 +36,11 @@ open index.html
 ```
 start index.html
 ```
+
+>Note:
+>The app loads song data dynamically from songs.json. Make sure this file is present and correctly formatted to see your songs listed.
+>The .htaccess file is included to control access permissions when hosting on an Apache server.
+
 # 🤝 Contributing
 Contributions are welcome! Feel free to fork the repo and submit pull requests for improvements or bug fixes.
 
