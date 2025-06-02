@@ -1,4 +1,5 @@
 # 🎵 RhythmX - Personal Web Music Player
+![App Screenshot](./rhythmx.png)
 
 A simple and sleek personal web music player built using **HTML**, **CSS**, and **JavaScript**. Play your favorite songs with an intuitive interface and smooth animations.
 
